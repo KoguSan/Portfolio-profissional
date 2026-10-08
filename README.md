@@ -126,4 +126,5 @@ Este projeto foi desenvolvido como parte das atividades da disciplina **Design P
 
 Este projeto possui um arquivo `LICENSE` reservado para a definição da licença utilizada.
 
-> **[INSERIR LICENÇA DO PROJETO APÓS A DEFINIÇÃO]**
+Código: desenvolvido para fins acadêmicos pelo autor.
+Conteúdo pessoal: destinado exclusivamente à apresentação profissional do autor e não autorizado para reutilização sem permissão.
