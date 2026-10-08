@@ -124,7 +124,23 @@ Este projeto foi desenvolvido como parte das atividades da disciplina **Design P
 
 ## Licença
 
-Este projeto possui um arquivo `LICENSE` reservado para a definição da licença utilizada.
+Copyright (c) 2026 Gustavo Ramos
 
-Código: desenvolvido para fins acadêmicos pelo autor.
-Conteúdo pessoal: destinado exclusivamente à apresentação profissional do autor e não autorizado para reutilização sem permissão.
+Todos os direitos reservados.
+
+Este projeto foi desenvolvido por Gustavo Ramos para fins acadêmicos,
+como parte da disciplina Design Profissional do curso de Análise e
+Desenvolvimento de Sistemas.
+
+O código-fonte, textos, materiais e demais conteúdos originais presentes
+neste projeto não podem ser copiados, reproduzidos, modificados,
+redistribuídos ou utilizados em outros projetos sem autorização prévia
+do autor.
+
+As informações pessoais, fotografias, currículo e demais conteúdos
+relacionados à identidade do autor não são concedidos para reutilização
+por meio deste projeto.
+
+A visualização e o acesso ao projeto para fins acadêmicos, educacionais
+ou de avaliação não constituem autorização para sua reprodução ou
+redistribuição.
